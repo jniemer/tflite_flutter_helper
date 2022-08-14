@@ -18,7 +18,7 @@ dependencies:
       url: https://github.com/Sankyuubigan/tflite_flutter_plugin.git
       ref: 5b26cd9dec9e2347e9c7d6684017100fee26af31
   tuple: ^2.0.0
-  camera: ^0.8.1+3
+  camera: ^0.10.0
   ffi: ^1.0.0
   image: ^3.0.2
 dev_dependencies:

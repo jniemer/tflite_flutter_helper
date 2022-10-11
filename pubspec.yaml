@@ -15,8 +15,7 @@ dependencies:
   path_provider: ^2.0.1
   tflite_flutter: # ^0.9.0 # custom ml neural networks
     git:
-      url: https://github.com/Sankyuubigan/tflite_flutter_plugin.git
-      ref: 5b26cd9dec9e2347e9c7d6684017100fee26af31
+      url: https://github.com/SIA-Studios/tflite_flutter_plugin.git
   tuple: ^2.0.0
   camera: ^0.10.0
   ffi: ^2.0.1

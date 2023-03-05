@@ -17,9 +17,9 @@ dependencies:
     git:
       url: https://github.com/SIA-Studios/tflite_flutter_plugin.git
   tuple: ^2.0.0
-  camera: ^0.10.0
+  camera: ^0.10.3
   ffi: ^2.0.1
-  image: ^3.0.2
+  image: ^4.0.15
 dev_dependencies:
   flutter_test:
     sdk: flutter
